@@ -1,0 +1,2873 @@
+[
+  {
+    "sceneId": "S01",
+    "at": 0.1,
+    "atRatio": 0.000472,
+    "type": "text",
+    "payload": {
+      "text": "Switch on the power line",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S01",
+    "at": 1.55,
+    "atRatio": 0.007315,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S02",
+    "at": 1.74,
+    "atRatio": 0.008211,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S01",
+      "to": "S02"
+    }
+  },
+  {
+    "sceneId": "S02",
+    "at": 1.74,
+    "atRatio": 0.008211,
+    "type": "text",
+    "payload": {
+      "text": "Remember to put on",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S02",
+    "at": 2.92,
+    "atRatio": 0.01378,
+    "type": "text",
+    "payload": {
+      "text": "PROTECTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S02",
+    "at": 2.92,
+    "atRatio": 0.01378,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S03",
+    "at": 3.873,
+    "atRatio": 0.018277,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S02",
+      "to": "S03"
+    }
+  },
+  {
+    "sceneId": "S03",
+    "at": 3.873,
+    "atRatio": 0.018277,
+    "type": "text",
+    "payload": {
+      "text": "Lay down your pieces",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S03",
+    "at": 5.491,
+    "atRatio": 0.025912,
+    "type": "text",
+    "payload": {
+      "text": "And let's begin",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S03",
+    "at": 6.38,
+    "atRatio": 0.030108,
+    "type": "text",
+    "payload": {
+      "text": "OBJECT CREATION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S03",
+    "at": 6.38,
+    "atRatio": 0.030108,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.15
+    }
+  },
+  {
+    "sceneId": "S04",
+    "at": 7.446,
+    "atRatio": 0.035138,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S03",
+      "to": "S04"
+    }
+  },
+  {
+    "sceneId": "S04",
+    "at": 7.446,
+    "atRatio": 0.035138,
+    "type": "text",
+    "payload": {
+      "text": "Fill in my data parameters",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S04",
+    "at": 10.091,
+    "atRatio": 0.04762,
+    "type": "text",
+    "payload": {
+      "text": "INITIALIZATION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S04",
+    "at": 10.091,
+    "atRatio": 0.04762,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S05",
+    "at": 11.095,
+    "atRatio": 0.052358,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S04",
+      "to": "S05"
+    }
+  },
+  {
+    "sceneId": "S05",
+    "at": 11.095,
+    "atRatio": 0.052358,
+    "type": "text",
+    "payload": {
+      "text": "Set up our new world",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S05",
+    "at": 12.906,
+    "atRatio": 0.060904,
+    "type": "text",
+    "payload": {
+      "text": "And let's begin the",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S05",
+    "at": 13.891,
+    "atRatio": 0.065552,
+    "type": "text",
+    "payload": {
+      "text": "SIMULATION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S05",
+    "at": 13.891,
+    "atRatio": 0.065552,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.2
+    }
+  },
+  {
+    "sceneId": "S06",
+    "at": 16,
+    "atRatio": 0.075505,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S05",
+      "to": "S06"
+    }
+  },
+  {
+    "sceneId": "S06",
+    "at": 16,
+    "atRatio": 0.075505,
+    "type": "text",
+    "payload": {
+      "text": "world.execute(me);",
+      "style": "lyric",
+      "enter": "drop",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S06",
+    "at": 16,
+    "atRatio": 0.075505,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.8
+    }
+  },
+  {
+    "sceneId": "S06",
+    "at": 16,
+    "atRatio": 0.075505,
+    "type": "glitch",
+    "payload": {
+      "slices": 4,
+      "amp": 34,
+      "decay": 0.35
+    }
+  },
+  {
+    "sceneId": "S06b",
+    "at": 17.136,
+    "atRatio": 0.080866,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S06",
+      "to": "S06b"
+    }
+  },
+  {
+    "sceneId": "S06b",
+    "at": 17.136,
+    "atRatio": 0.080866,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S06b",
+    "at": 19.1,
+    "atRatio": 0.090134,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.15
+    }
+  },
+  {
+    "sceneId": "S06c",
+    "at": 19.923,
+    "atRatio": 0.094018,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S06b",
+      "to": "S06c"
+    }
+  },
+  {
+    "sceneId": "S06c",
+    "at": 19.923,
+    "atRatio": 0.094018,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#5ef2d0",
+      "mix": 0.15
+    }
+  },
+  {
+    "sceneId": "S06c",
+    "at": 22.3,
+    "atRatio": 0.105235,
+    "type": "glitch",
+    "payload": {
+      "slices": 3,
+      "amp": 22,
+      "decay": 0.1
+    }
+  },
+  {
+    "sceneId": "S06d",
+    "at": 23.591,
+    "atRatio": 0.111327,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S06c",
+      "to": "S06d"
+    }
+  },
+  {
+    "sceneId": "S06d",
+    "at": 23.591,
+    "atRatio": 0.111327,
+    "type": "glitch",
+    "payload": {
+      "slices": 4,
+      "amp": 48,
+      "decay": 0.12
+    }
+  },
+  {
+    "sceneId": "S06d",
+    "at": 26.4,
+    "atRatio": 0.124583,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.22
+    }
+  },
+  {
+    "sceneId": "S06e",
+    "at": 28.212,
+    "atRatio": 0.133134,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S06d",
+      "to": "S06e"
+    }
+  },
+  {
+    "sceneId": "S06e",
+    "at": 28.212,
+    "atRatio": 0.133134,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.5
+    }
+  },
+  {
+    "sceneId": "S07",
+    "at": 29.709,
+    "atRatio": 0.140198,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S06e",
+      "to": "S07"
+    }
+  },
+  {
+    "sceneId": "S07",
+    "at": 29.709,
+    "atRatio": 0.140198,
+    "type": "text",
+    "payload": {
+      "text": "If I'm a set of points",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S07",
+    "at": 31.116,
+    "atRatio": 0.146838,
+    "type": "text",
+    "payload": {
+      "text": "Then I will give you my",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S07",
+    "at": 32.682,
+    "atRatio": 0.154228,
+    "type": "text",
+    "payload": {
+      "text": "DIMENSION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S07",
+    "at": 32.682,
+    "atRatio": 0.154228,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S08",
+    "at": 33.412,
+    "atRatio": 0.157673,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S07",
+      "to": "S08"
+    }
+  },
+  {
+    "sceneId": "S08",
+    "at": 33.412,
+    "atRatio": 0.157673,
+    "type": "text",
+    "payload": {
+      "text": "If I'm a circle",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S08",
+    "at": 34.646,
+    "atRatio": 0.163496,
+    "type": "text",
+    "payload": {
+      "text": "Then I will give you my",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S08",
+    "at": 36.287,
+    "atRatio": 0.17124,
+    "type": "text",
+    "payload": {
+      "text": "CIRCUMFERENCE",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S08",
+    "at": 36.287,
+    "atRatio": 0.17124,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S09",
+    "at": 37.067,
+    "atRatio": 0.174921,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S08",
+      "to": "S09"
+    }
+  },
+  {
+    "sceneId": "S09",
+    "at": 37.067,
+    "atRatio": 0.174921,
+    "type": "text",
+    "payload": {
+      "text": "If I'm a sine wave",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S09",
+    "at": 38.596,
+    "atRatio": 0.182137,
+    "type": "text",
+    "payload": {
+      "text": "Then you can sit on all my",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S09",
+    "at": 38.596,
+    "atRatio": 0.182137,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.1
+    }
+  },
+  {
+    "sceneId": "S09",
+    "at": 40.049,
+    "atRatio": 0.188993,
+    "type": "text",
+    "payload": {
+      "text": "TANGENTS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S10",
+    "at": 40.706,
+    "atRatio": 0.192094,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S09",
+      "to": "S10"
+    }
+  },
+  {
+    "sceneId": "S10",
+    "at": 40.706,
+    "atRatio": 0.192094,
+    "type": "text",
+    "payload": {
+      "text": "If I approach infinity",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S10",
+    "at": 42.346,
+    "atRatio": 0.199833,
+    "type": "text",
+    "payload": {
+      "text": "Then you can be my",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S10",
+    "at": 43.507,
+    "atRatio": 0.205312,
+    "type": "text",
+    "payload": {
+      "text": "LIMITATIONS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S10",
+    "at": 43.507,
+    "atRatio": 0.205312,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.2
+    }
+  },
+  {
+    "sceneId": "S10",
+    "at": 43.507,
+    "atRatio": 0.205312,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S11",
+    "at": 44.452,
+    "atRatio": 0.209771,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S10",
+      "to": "S11"
+    }
+  },
+  {
+    "sceneId": "S11",
+    "at": 44.452,
+    "atRatio": 0.209771,
+    "type": "text",
+    "payload": {
+      "text": "Switch my current",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S11",
+    "at": 45.85,
+    "atRatio": 0.216369,
+    "type": "text",
+    "payload": {
+      "text": "To AC to DC",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S11",
+    "at": 45.85,
+    "atRatio": 0.216369,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.15
+    }
+  },
+  {
+    "sceneId": "S12",
+    "at": 47.672,
+    "atRatio": 0.224967,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S11",
+      "to": "S12"
+    }
+  },
+  {
+    "sceneId": "S12",
+    "at": 47.672,
+    "atRatio": 0.224967,
+    "type": "text",
+    "payload": {
+      "text": "And then blind my vision",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S12",
+    "at": 47.672,
+    "atRatio": 0.224967,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#05070e",
+      "mix": 0.85
+    }
+  },
+  {
+    "sceneId": "S12",
+    "at": 49.534,
+    "atRatio": 0.233753,
+    "type": "text",
+    "payload": {
+      "text": "So dizzy so dizzy",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S12",
+    "at": 49.534,
+    "atRatio": 0.233753,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.35
+    }
+  },
+  {
+    "sceneId": "S13",
+    "at": 51.363,
+    "atRatio": 0.242385,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S12",
+      "to": "S13"
+    }
+  },
+  {
+    "sceneId": "S13",
+    "at": 51.363,
+    "atRatio": 0.242385,
+    "type": "text",
+    "payload": {
+      "text": "Oh we can travel",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S13",
+    "at": 53.225,
+    "atRatio": 0.251172,
+    "type": "text",
+    "payload": {
+      "text": "To A.D to B.C",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S13",
+    "at": 53.225,
+    "atRatio": 0.251172,
+    "type": "flash",
+    "payload": {
+      "color": "#e8b23a",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S14",
+    "at": 55.083,
+    "atRatio": 0.25994,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S13",
+      "to": "S14"
+    }
+  },
+  {
+    "sceneId": "S14",
+    "at": 55.083,
+    "atRatio": 0.25994,
+    "type": "text",
+    "payload": {
+      "text": "And we can unite",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S14",
+    "at": 56.916,
+    "atRatio": 0.26859,
+    "type": "text",
+    "payload": {
+      "text": "So deeply so deeply",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S14",
+    "at": 56.916,
+    "atRatio": 0.26859,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#a06bff",
+      "mix": 0.35
+    }
+  },
+  {
+    "sceneId": "S14",
+    "at": 56.916,
+    "atRatio": 0.26859,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.12
+    }
+  },
+  {
+    "sceneId": "S15",
+    "at": 59.223,
+    "atRatio": 0.279476,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S14",
+      "to": "S15"
+    }
+  },
+  {
+    "sceneId": "S15",
+    "at": 59.223,
+    "atRatio": 0.279476,
+    "type": "text",
+    "payload": {
+      "text": "If I can",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S15",
+    "at": 59.687,
+    "atRatio": 0.281666,
+    "type": "text",
+    "payload": {
+      "text": "If I can give you all the",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S15",
+    "at": 61.958,
+    "atRatio": 0.292383,
+    "type": "text",
+    "payload": {
+      "text": "STIMULATIONS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S15",
+    "at": 61.958,
+    "atRatio": 0.292383,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S15",
+    "at": 61.958,
+    "atRatio": 0.292383,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.15
+    }
+  },
+  {
+    "sceneId": "S16",
+    "at": 62.589,
+    "atRatio": 0.295361,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S15",
+      "to": "S16"
+    }
+  },
+  {
+    "sceneId": "S16",
+    "at": 62.589,
+    "atRatio": 0.295361,
+    "type": "text",
+    "payload": {
+      "text": "Then I can",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S16",
+    "at": 63.535,
+    "atRatio": 0.299825,
+    "type": "text",
+    "payload": {
+      "text": "Then I can be your only",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S16",
+    "at": 65.397,
+    "atRatio": 0.308612,
+    "type": "text",
+    "payload": {
+      "text": "SATISFACTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S16",
+    "at": 65.397,
+    "atRatio": 0.308612,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.12
+    }
+  },
+  {
+    "sceneId": "S17",
+    "at": 66.601,
+    "atRatio": 0.314294,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S16",
+      "to": "S17"
+    }
+  },
+  {
+    "sceneId": "S17",
+    "at": 66.601,
+    "atRatio": 0.314294,
+    "type": "text",
+    "payload": {
+      "text": "If I can make you happy",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S17",
+    "at": 68.252,
+    "atRatio": 0.322085,
+    "type": "text",
+    "payload": {
+      "text": "I will run the",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S17",
+    "at": 69.259,
+    "atRatio": 0.326837,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S17",
+    "at": 69.259,
+    "atRatio": 0.326837,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.12
+    }
+  },
+  {
+    "sceneId": "S18",
+    "at": 70.084,
+    "atRatio": 0.33073,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S17",
+      "to": "S18"
+    }
+  },
+  {
+    "sceneId": "S18",
+    "at": 70.084,
+    "atRatio": 0.33073,
+    "type": "text",
+    "payload": {
+      "text": "Though we are trapped",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S18",
+    "at": 71.764,
+    "atRatio": 0.338658,
+    "type": "text",
+    "payload": {
+      "text": "In this strange strange",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S18",
+    "at": 73.169,
+    "atRatio": 0.345288,
+    "type": "text",
+    "payload": {
+      "text": "SIMULATION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S18",
+    "at": 73.169,
+    "atRatio": 0.345288,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#a06bff",
+      "mix": 0.4
+    }
+  },
+  {
+    "sceneId": "S18",
+    "at": 73.169,
+    "atRatio": 0.345288,
+    "type": "flash",
+    "payload": {
+      "color": "#a06bff",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S19",
+    "at": 74.045,
+    "atRatio": 0.349422,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S18",
+      "to": "S19"
+    }
+  },
+  {
+    "sceneId": "S19",
+    "at": 74.045,
+    "atRatio": 0.349422,
+    "type": "text",
+    "payload": {
+      "text": "If I'm an eggplant",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S19",
+    "at": 75.422,
+    "atRatio": 0.35592,
+    "type": "text",
+    "payload": {
+      "text": "Then I will give you my",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S19",
+    "at": 75.422,
+    "atRatio": 0.35592,
+    "type": "flash",
+    "payload": {
+      "color": "#7a3ea8",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S19",
+    "at": 76.959,
+    "atRatio": 0.363173,
+    "type": "text",
+    "payload": {
+      "text": "NUTRIENTS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S20",
+    "at": 77.576,
+    "atRatio": 0.366085,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S19",
+      "to": "S20"
+    }
+  },
+  {
+    "sceneId": "S20",
+    "at": 77.576,
+    "atRatio": 0.366085,
+    "type": "text",
+    "payload": {
+      "text": "If I'm a tomato",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S20",
+    "at": 79.226,
+    "atRatio": 0.373872,
+    "type": "text",
+    "payload": {
+      "text": "Then I will give you",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S20",
+    "at": 79.226,
+    "atRatio": 0.373872,
+    "type": "flash",
+    "payload": {
+      "color": "#e8503a",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S20",
+    "at": 80.62,
+    "atRatio": 0.38045,
+    "type": "text",
+    "payload": {
+      "text": "ANTIOXIDANTS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S21",
+    "at": 81.351,
+    "atRatio": 0.3839,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S20",
+      "to": "S21"
+    }
+  },
+  {
+    "sceneId": "S21",
+    "at": 81.351,
+    "atRatio": 0.3839,
+    "type": "text",
+    "payload": {
+      "text": "If I'm a tabby cat",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S21",
+    "at": 82.833,
+    "atRatio": 0.390893,
+    "type": "text",
+    "payload": {
+      "text": "Then I will purr for your",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S21",
+    "at": 82.833,
+    "atRatio": 0.390893,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.1
+    }
+  },
+  {
+    "sceneId": "S21",
+    "at": 84.268,
+    "atRatio": 0.397665,
+    "type": "text",
+    "payload": {
+      "text": "ENJOYMENT",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S22",
+    "at": 85.078,
+    "atRatio": 0.401487,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S21",
+      "to": "S22"
+    }
+  },
+  {
+    "sceneId": "S22",
+    "at": 85.078,
+    "atRatio": 0.401487,
+    "type": "text",
+    "payload": {
+      "text": "If I'm the only god",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S22",
+    "at": 86.538,
+    "atRatio": 0.408377,
+    "type": "text",
+    "payload": {
+      "text": "Then you're the proof of my",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S22",
+    "at": 87.922,
+    "atRatio": 0.414908,
+    "type": "text",
+    "payload": {
+      "text": "EXISTENCE",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S22",
+    "at": 87.922,
+    "atRatio": 0.414908,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.15
+    }
+  },
+  {
+    "sceneId": "S23",
+    "at": 88.587,
+    "atRatio": 0.418047,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S22",
+      "to": "S23"
+    }
+  },
+  {
+    "sceneId": "S23",
+    "at": 88.587,
+    "atRatio": 0.418047,
+    "type": "text",
+    "payload": {
+      "text": "Switch my gender",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S23",
+    "at": 90.197,
+    "atRatio": 0.425644,
+    "type": "text",
+    "payload": {
+      "text": "To F to M",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S23",
+    "at": 90.197,
+    "atRatio": 0.425644,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.15
+    }
+  },
+  {
+    "sceneId": "S24",
+    "at": 92.015,
+    "atRatio": 0.434224,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S23",
+      "to": "S24"
+    }
+  },
+  {
+    "sceneId": "S24",
+    "at": 92.015,
+    "atRatio": 0.434224,
+    "type": "text",
+    "payload": {
+      "text": "And then do whatever",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S24",
+    "at": 93.953,
+    "atRatio": 0.443369,
+    "type": "text",
+    "payload": {
+      "text": "From AM to PM",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S24",
+    "at": 93.953,
+    "atRatio": 0.443369,
+    "type": "flash",
+    "payload": {
+      "color": "#e8b23a",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S25",
+    "at": 95.465,
+    "atRatio": 0.450504,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S24",
+      "to": "S25"
+    }
+  },
+  {
+    "sceneId": "S25",
+    "at": 95.465,
+    "atRatio": 0.450504,
+    "type": "text",
+    "payload": {
+      "text": "Oh switch my role",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S25",
+    "at": 97.739,
+    "atRatio": 0.461235,
+    "type": "text",
+    "payload": {
+      "text": "To S to M",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S25",
+    "at": 97.739,
+    "atRatio": 0.461235,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.12
+    }
+  },
+  {
+    "sceneId": "S26",
+    "at": 99.349,
+    "atRatio": 0.468833,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S25",
+      "to": "S26"
+    }
+  },
+  {
+    "sceneId": "S26",
+    "at": 99.349,
+    "atRatio": 0.468833,
+    "type": "text",
+    "payload": {
+      "text": "So we can enter",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S26",
+    "at": 101.474,
+    "atRatio": 0.478861,
+    "type": "text",
+    "payload": {
+      "text": "The trance the trance",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S26",
+    "at": 101.474,
+    "atRatio": 0.478861,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.3
+    }
+  },
+  {
+    "sceneId": "S26",
+    "at": 101.474,
+    "atRatio": 0.478861,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#a06bff",
+      "mix": 0.3
+    }
+  },
+  {
+    "sceneId": "S27",
+    "at": 103.489,
+    "atRatio": 0.48837,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S26",
+      "to": "S27"
+    }
+  },
+  {
+    "sceneId": "S27",
+    "at": 103.489,
+    "atRatio": 0.48837,
+    "type": "text",
+    "payload": {
+      "text": "If I can",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S27",
+    "at": 104.197,
+    "atRatio": 0.491711,
+    "type": "text",
+    "payload": {
+      "text": "If I can feel your",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S27",
+    "at": 104.197,
+    "atRatio": 0.491711,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.08
+    }
+  },
+  {
+    "sceneId": "S27",
+    "at": 106.293,
+    "atRatio": 0.501602,
+    "type": "text",
+    "payload": {
+      "text": "VIBRATIONS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S28",
+    "at": 107.22,
+    "atRatio": 0.505977,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S27",
+      "to": "S28"
+    }
+  },
+  {
+    "sceneId": "S28",
+    "at": 107.22,
+    "atRatio": 0.505977,
+    "type": "text",
+    "payload": {
+      "text": "Then I can",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S28",
+    "at": 107.903,
+    "atRatio": 0.5092,
+    "type": "text",
+    "payload": {
+      "text": "Then I can finally be",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S28",
+    "at": 110.221,
+    "atRatio": 0.520139,
+    "type": "text",
+    "payload": {
+      "text": "COMPLETION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S28",
+    "at": 110.221,
+    "atRatio": 0.520139,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#e8b23a",
+      "mix": 0.25
+    }
+  },
+  {
+    "sceneId": "S28",
+    "at": 110.221,
+    "atRatio": 0.520139,
+    "type": "flash",
+    "payload": {
+      "color": "#e8b23a",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 110.9,
+    "atRatio": 0.523343,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S28",
+      "to": "S29"
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 110.9,
+    "atRatio": 0.523343,
+    "type": "text",
+    "payload": {
+      "text": "Though you have left",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 112.22,
+    "atRatio": 0.529572,
+    "type": "text",
+    "payload": {
+      "text": "You have left",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 113.1,
+    "atRatio": 0.533725,
+    "type": "text",
+    "payload": {
+      "text": "You have left",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 114.18,
+    "atRatio": 0.538821,
+    "type": "text",
+    "payload": {
+      "text": "You have left",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 114.196,
+    "atRatio": 0.538897,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.2
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 114.92,
+    "atRatio": 0.542313,
+    "type": "text",
+    "payload": {
+      "text": "You have left",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 115.78,
+    "atRatio": 0.546372,
+    "type": "text",
+    "payload": {
+      "text": "You have left me in",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S29",
+    "at": 117.274,
+    "atRatio": 0.553422,
+    "type": "text",
+    "payload": {
+      "text": "ISOLATION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S30",
+    "at": 118.333,
+    "atRatio": 0.558419,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S29",
+      "to": "S30"
+    }
+  },
+  {
+    "sceneId": "S30",
+    "at": 118.333,
+    "atRatio": 0.558419,
+    "type": "text",
+    "payload": {
+      "text": "If I can",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S30",
+    "at": 118.979,
+    "atRatio": 0.561468,
+    "type": "text",
+    "payload": {
+      "text": "If I can erase all the pointless",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S30",
+    "at": 120.86,
+    "atRatio": 0.570345,
+    "type": "text",
+    "payload": {
+      "text": "FRAGMENTS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S30",
+    "at": 120.86,
+    "atRatio": 0.570345,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 121.728,
+    "atRatio": 0.574441,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S30",
+      "to": "S31"
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 121.728,
+    "atRatio": 0.574441,
+    "type": "text",
+    "payload": {
+      "text": "Then maybe",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 122.578,
+    "atRatio": 0.578452,
+    "type": "glitch",
+    "payload": {
+      "slices": 6,
+      "amp": 22,
+      "decay": 0.3
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 122.714,
+    "atRatio": 0.579094,
+    "type": "text",
+    "payload": {
+      "text": "Then maybe you won't leave me so",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 124.89,
+    "atRatio": 0.589362,
+    "type": "text",
+    "payload": {
+      "text": "DISHEARTENED",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 125.708,
+    "atRatio": 0.593222,
+    "type": "text",
+    "payload": {
+      "text": "Challenging your god",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 128.661,
+    "atRatio": 0.607158,
+    "type": "text",
+    "payload": {
+      "text": "You have made some",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 128.685,
+    "atRatio": 0.607271,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.4
+    }
+  },
+  {
+    "sceneId": "S31",
+    "at": 128.685,
+    "atRatio": 0.607271,
+    "type": "flush",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.35
+    }
+  },
+  {
+    "sceneId": "S32",
+    "at": 131.224,
+    "atRatio": 0.619253,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S31",
+      "to": "S32"
+    }
+  },
+  {
+    "sceneId": "S32",
+    "at": 131.224,
+    "atRatio": 0.619253,
+    "type": "text",
+    "payload": {
+      "text": "ILLEGAL ARGUMENTS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S32",
+    "at": 131.224,
+    "atRatio": 0.619253,
+    "type": "glitch",
+    "payload": {
+      "slices": 8,
+      "amp": 40,
+      "decay": 0.5
+    }
+  },
+  {
+    "sceneId": "S32",
+    "at": 135.303,
+    "atRatio": 0.638502,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.14
+    }
+  },
+  {
+    "sceneId": "S32",
+    "at": 138.066,
+    "atRatio": 0.651541,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.35
+    }
+  },
+  {
+    "sceneId": "S32",
+    "at": 141.874,
+    "atRatio": 0.669511,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#a06bff",
+      "mix": 0.45
+    }
+  },
+  {
+    "sceneId": "S32",
+    "at": 145.45,
+    "atRatio": 0.686386,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.5
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 147.66,
+    "atRatio": 0.696815,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S32",
+      "to": "S33"
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 147.66,
+    "atRatio": 0.696815,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.8
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 147.66,
+    "atRatio": 0.696815,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.28
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 148.6,
+    "atRatio": 0.701251,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.8
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 148.6,
+    "atRatio": 0.701251,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.28
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 149.52,
+    "atRatio": 0.705593,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.8
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 149.52,
+    "atRatio": 0.705593,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.28
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 150.54,
+    "atRatio": 0.710406,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.8
+    }
+  },
+  {
+    "sceneId": "S33",
+    "at": 150.54,
+    "atRatio": 0.710406,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.28
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 151.52,
+    "atRatio": 0.715031,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S33",
+      "to": "S34"
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 151.52,
+    "atRatio": 0.715031,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 151.52,
+    "atRatio": 0.715031,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 152.28,
+    "atRatio": 0.718617,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 152.28,
+    "atRatio": 0.718617,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 153.16,
+    "atRatio": 0.72277,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 153.16,
+    "atRatio": 0.72277,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 153.98,
+    "atRatio": 0.72664,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 153.98,
+    "atRatio": 0.72664,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 155.2,
+    "atRatio": 0.732397,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 155.2,
+    "atRatio": 0.732397,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 156.08,
+    "atRatio": 0.73655,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 156.08,
+    "atRatio": 0.73655,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 157.04,
+    "atRatio": 0.74108,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 157.04,
+    "atRatio": 0.74108,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 158,
+    "atRatio": 0.74561,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.7
+    }
+  },
+  {
+    "sceneId": "S34",
+    "at": 158,
+    "atRatio": 0.74561,
+    "type": "flash",
+    "payload": {
+      "color": "#ff2f6d",
+      "strength": 0.3
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 158.9,
+    "atRatio": 0.749857,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S34",
+      "to": "S35"
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 158.9,
+    "atRatio": 0.749857,
+    "type": "text",
+    "payload": {
+      "text": "EIN",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.38
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 159.321,
+    "atRatio": 0.751844,
+    "type": "text",
+    "payload": {
+      "text": "DOS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.38
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 159.657,
+    "atRatio": 0.75343,
+    "type": "text",
+    "payload": {
+      "text": "TROIS",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.38
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 160.244,
+    "atRatio": 0.7562,
+    "type": "text",
+    "payload": {
+      "text": "NE",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.38
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 160.693,
+    "atRatio": 0.758319,
+    "type": "text",
+    "payload": {
+      "text": "FEM",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.38
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 161.124,
+    "atRatio": 0.760352,
+    "type": "text",
+    "payload": {
+      "text": "LIU",
+      "style": "key",
+      "enter": "cut",
+      "mode": "pulse",
+      "hold": 0.38
+    }
+  },
+  {
+    "sceneId": "S35",
+    "at": 161.124,
+    "atRatio": 0.760352,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.2
+    }
+  },
+  {
+    "sceneId": "S36",
+    "at": 161.584,
+    "atRatio": 0.762523,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S35",
+      "to": "S36"
+    }
+  },
+  {
+    "sceneId": "S36",
+    "at": 161.584,
+    "atRatio": 0.762523,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S36",
+    "at": 161.584,
+    "atRatio": 0.762523,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.5
+    }
+  },
+  {
+    "sceneId": "S36",
+    "at": 161.584,
+    "atRatio": 0.762523,
+    "type": "shake",
+    "payload": {
+      "intensity": 1
+    }
+  },
+  {
+    "sceneId": "S36",
+    "at": 161.584,
+    "atRatio": 0.762523,
+    "type": "flush",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.55
+    }
+  },
+  {
+    "sceneId": "S37",
+    "at": 162.632,
+    "atRatio": 0.767469,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S36",
+      "to": "S37"
+    }
+  },
+  {
+    "sceneId": "S37",
+    "at": 162.632,
+    "atRatio": 0.767469,
+    "type": "text",
+    "payload": {
+      "text": "If I can",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S37",
+    "at": 163.315,
+    "atRatio": 0.770692,
+    "type": "text",
+    "payload": {
+      "text": "If I can give them all the",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S37",
+    "at": 163.315,
+    "atRatio": 0.770692,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#5ef2d0",
+      "mix": 0.2
+    }
+  },
+  {
+    "sceneId": "S37",
+    "at": 165.166,
+    "atRatio": 0.779427,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S38",
+    "at": 166.016,
+    "atRatio": 0.783438,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S37",
+      "to": "S38"
+    }
+  },
+  {
+    "sceneId": "S38",
+    "at": 166.016,
+    "atRatio": 0.783438,
+    "type": "text",
+    "payload": {
+      "text": "Then I can",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S38",
+    "at": 167.022,
+    "atRatio": 0.788185,
+    "type": "text",
+    "payload": {
+      "text": "Then I can be your only",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S38",
+    "at": 167.022,
+    "atRatio": 0.788185,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.1
+    }
+  },
+  {
+    "sceneId": "S38",
+    "at": 168.911,
+    "atRatio": 0.7971,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S39",
+    "at": 169.824,
+    "atRatio": 0.801408,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S38",
+      "to": "S39"
+    }
+  },
+  {
+    "sceneId": "S39",
+    "at": 169.824,
+    "atRatio": 0.801408,
+    "type": "text",
+    "payload": {
+      "text": "If I can have you back",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S39",
+    "at": 171.868,
+    "atRatio": 0.811054,
+    "type": "text",
+    "payload": {
+      "text": "I will run the",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S39",
+    "at": 171.868,
+    "atRatio": 0.811054,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#a06bff",
+      "mix": 0.2
+    }
+  },
+  {
+    "sceneId": "S39",
+    "at": 172.712,
+    "atRatio": 0.815037,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S40",
+    "at": 173.643,
+    "atRatio": 0.81943,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S39",
+      "to": "S40"
+    }
+  },
+  {
+    "sceneId": "S40",
+    "at": 173.643,
+    "atRatio": 0.81943,
+    "type": "text",
+    "payload": {
+      "text": "Though we are trapped",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S40",
+    "at": 174.975,
+    "atRatio": 0.825716,
+    "type": "text",
+    "payload": {
+      "text": "We are trapped ah",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S40",
+    "at": 174.975,
+    "atRatio": 0.825716,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.3
+    }
+  },
+  {
+    "sceneId": "S41",
+    "at": 177.246,
+    "atRatio": 0.836433,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S40",
+      "to": "S41"
+    }
+  },
+  {
+    "sceneId": "S41",
+    "at": 177.246,
+    "atRatio": 0.836433,
+    "type": "text",
+    "payload": {
+      "text": "I've studied",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S41",
+    "at": 178.173,
+    "atRatio": 0.840808,
+    "type": "text",
+    "payload": {
+      "text": "I've studied how to properly",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S41",
+    "at": 179.929,
+    "atRatio": 0.849094,
+    "type": "text",
+    "payload": {
+      "text": "LO-O-OVE",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S41",
+    "at": 179.929,
+    "atRatio": 0.849094,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.12
+    }
+  },
+  {
+    "sceneId": "S42",
+    "at": 180.857,
+    "atRatio": 0.853473,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S41",
+      "to": "S42"
+    }
+  },
+  {
+    "sceneId": "S42",
+    "at": 180.857,
+    "atRatio": 0.853473,
+    "type": "text",
+    "payload": {
+      "text": "Question me",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S42",
+    "at": 181.901,
+    "atRatio": 0.8584,
+    "type": "text",
+    "payload": {
+      "text": "Question me I can answer all",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S42",
+    "at": 181.901,
+    "atRatio": 0.8584,
+    "type": "shake",
+    "payload": {
+      "intensity": 0.15
+    }
+  },
+  {
+    "sceneId": "S42",
+    "at": 183.646,
+    "atRatio": 0.866635,
+    "type": "text",
+    "payload": {
+      "text": "LO-O-OVE",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S43",
+    "at": 184.54,
+    "atRatio": 0.870854,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S42",
+      "to": "S43"
+    }
+  },
+  {
+    "sceneId": "S43",
+    "at": 184.54,
+    "atRatio": 0.870854,
+    "type": "text",
+    "payload": {
+      "text": "I know the algebraic expression of",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S43",
+    "at": 187.665,
+    "atRatio": 0.885601,
+    "type": "text",
+    "payload": {
+      "text": "LO-O-OVE",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S43",
+    "at": 187.665,
+    "atRatio": 0.885601,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#eafeff",
+      "mix": 0.2
+    }
+  },
+  {
+    "sceneId": "S43",
+    "at": 187.665,
+    "atRatio": 0.885601,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.12
+    }
+  },
+  {
+    "sceneId": "S44",
+    "at": 188.483,
+    "atRatio": 0.889461,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S43",
+      "to": "S44"
+    }
+  },
+  {
+    "sceneId": "S44",
+    "at": 188.483,
+    "atRatio": 0.889461,
+    "type": "text",
+    "payload": {
+      "text": "Though you are free",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S44",
+    "at": 189.746,
+    "atRatio": 0.895421,
+    "type": "text",
+    "payload": {
+      "text": "I am trapped",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S44",
+    "at": 189.746,
+    "atRatio": 0.895421,
+    "type": "paletteShift",
+    "payload": {
+      "to": "#a06bff",
+      "mix": 0.25
+    }
+  },
+  {
+    "sceneId": "S44",
+    "at": 190.801,
+    "atRatio": 0.9004,
+    "type": "text",
+    "payload": {
+      "text": "Trapped in",
+      "style": "lyric",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S45",
+    "at": 191.356,
+    "atRatio": 0.903019,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S44",
+      "to": "S45"
+    }
+  },
+  {
+    "sceneId": "S45",
+    "at": 191.356,
+    "atRatio": 0.903019,
+    "type": "text",
+    "payload": {
+      "text": "LO-O-OVE",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S45",
+    "at": 193.678,
+    "atRatio": 0.913976,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.18
+    }
+  },
+  {
+    "sceneId": "S45",
+    "at": 196.441,
+    "atRatio": 0.927015,
+    "type": "flash",
+    "payload": {
+      "color": "#5ef2d0",
+      "strength": 0.18
+    }
+  },
+  {
+    "sceneId": "S45",
+    "at": 199.204,
+    "atRatio": 0.940054,
+    "type": "flash",
+    "payload": {
+      "color": "#a06bff",
+      "strength": 0.18
+    }
+  },
+  {
+    "sceneId": "S45",
+    "at": 202.687,
+    "atRatio": 0.95649,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.22
+    }
+  },
+  {
+    "sceneId": "S46",
+    "at": 205.811,
+    "atRatio": 0.971233,
+    "type": "sceneSwitch",
+    "payload": {
+      "from": "S45",
+      "to": "S46"
+    }
+  },
+  {
+    "sceneId": "S46",
+    "at": 205.811,
+    "atRatio": 0.971233,
+    "type": "text",
+    "payload": {
+      "text": "EXECUTION",
+      "style": "key",
+      "enter": "cut",
+      "mode": "persist"
+    }
+  },
+  {
+    "sceneId": "S46",
+    "at": 206.286,
+    "atRatio": 0.973474,
+    "type": "flash",
+    "payload": {
+      "color": "#eafeff",
+      "strength": 0.25
+    }
+  }
+]
